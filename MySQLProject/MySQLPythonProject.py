@@ -1,5 +1,8 @@
 import mysql.connector
 
+# Adjusted Personal MySQL-Python Project, referencing Coursera MySQL Project.
+
+
 # After the database-who is created (reference the following comment lines), and add the database attribute to the
 # connector.
 conn = mysql.connector.connect(
